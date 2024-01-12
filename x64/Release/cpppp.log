@@ -1,7 +1,7 @@
-﻿  6.9.cpp
+﻿  6.10.cpp
+  6.11.cpp
   正在生成代码
-  1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Compiler switch has changed, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   cpppp.vcxproj -> D:\C++\cpppp\x64\Release\cpppp.exe
