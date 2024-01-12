@@ -213,6 +213,15 @@
     <ClCompile Include="6.8.cpp">
       <Filter>源文件\第六章</Filter>
     </ClCompile>
+    <ClCompile Include="6.9.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.10.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.11.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="4.24.h">
