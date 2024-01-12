@@ -13,169 +13,205 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\第四章">
+      <UniqueIdentifier>{5a875e44-a469-4eb2-afb0-9ef05a96d2c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第五章">
+      <UniqueIdentifier>{e56d3c75-1f89-4caa-a470-a830887110f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章">
+      <UniqueIdentifier>{a5273a50-6190-413e-93da-07b861cdf986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第六章">
+      <UniqueIdentifier>{e6a7da99-f4b5-445f-8a53-d1eb84ed2cca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="3.1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.2.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.3.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.5.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.6.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.7.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.8.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.9.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.10.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.11.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.12.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.13.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="3.14.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第三章</Filter>
     </ClCompile>
     <ClCompile Include="4.1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.2.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.3.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.4.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.5.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.6.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.7.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.8.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.9.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.10.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.11.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.12.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.13.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.17.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.18.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.19.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.20.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.21.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.22.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.23.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="4.24.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第四章</Filter>
     </ClCompile>
     <ClCompile Include="5.1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.2.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.3.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.4.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.5.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.6.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="5.7.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.7.1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
-    <ClCompile Include="5.8.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="5.7.cpp">
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.8.1.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
+    </ClCompile>
+    <ClCompile Include="5.8.cpp">
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.9.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.10.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.11.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.13.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.14.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.15.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.16.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.17.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.19.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
     </ClCompile>
     <ClCompile Include="5.20.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\第五章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7.cpp">
+      <Filter>源文件\第六章</Filter>
+    </ClCompile>
+    <ClCompile Include="6.8.cpp">
+      <Filter>源文件\第六章</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

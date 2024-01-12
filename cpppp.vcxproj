@@ -181,6 +181,14 @@
     <ClCompile Include="5.8.cpp" />
     <ClCompile Include="5.8.1.cpp" />
     <ClCompile Include="5.9.cpp" />
+    <ClCompile Include="6.1.cpp" />
+    <ClCompile Include="6.2.cpp" />
+    <ClCompile Include="6.3.cpp" />
+    <ClCompile Include="6.4.cpp" />
+    <ClCompile Include="6.5.cpp" />
+    <ClCompile Include="6.6.cpp" />
+    <ClCompile Include="6.7.cpp" />
+    <ClCompile Include="6.8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="4.24.h" />
