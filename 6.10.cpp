@@ -12,14 +12,14 @@
 //	{
 //		switch (choice) 
 //		{
-	//		case 1: cout << "\a\n";
-	//			break;
-	//		case 2: report();
-	//			break;
-	//		case 3: cout << "The boss was in all day";
-	//			break;
-	//		case 4: comfort();
-	//		default: cout << " Thats not a choice.\n";
+//			case 1: cout << "\a\n";
+//				break;
+//			case 2: report();
+//				break;
+//			case 3: cout << "The boss was in all day";
+//				break;
+//			case 4: comfort();
+//			default: cout << " Thats not a choice.\n";
 //		}
 //		showmenu();
 //		cin >> choice;

@@ -1,7 +1,7 @@
-﻿  6.10.cpp
-  6.11.cpp
+﻿  6.15.cpp
+  6.16.cpp
   正在生成代码
   Compiler switch has changed, fall back to full compilation.
-  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   cpppp.vcxproj -> D:\C++\cpppp\x64\Release\cpppp.exe
